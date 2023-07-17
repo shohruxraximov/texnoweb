@@ -1,0 +1,20 @@
+.fitnes-swiper,img {
+  width: 700px;
+  height: 400px;
+}
+
+.fitnes-swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  background: #fff;
+}
+
+.fitnes-swiper .swiper-slide {
+  height: 300px;
+  line-height: 300px;
+}
+
+.fitnes-swiper .swiper-slide:nth-child(2n) {
+  height: 500px;
+  line-height: 500px;
+}

@@ -1,0 +1,14 @@
+.tex-block2{
+display: flex;
+justify-content: space-around;}
+.tex-block2 a{
+color: black;
+font-size: 18px;
+margin-top: 10px;
+
+}
+.tex-block2 button{
+background-color: orange;
+font-size: 15px;
+border-radius: 10px;
+border: solid orange 10px;}

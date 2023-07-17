@@ -1,0 +1,50 @@
+.header-container {
+    background-color: black;
+    width: 100%;
+    height: 50px;
+    display: flex;
+    gap: 200px;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    text-align: center;
+}
+
+.header-block {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 20px;
+    color: white;
+}
+
+.header-block2 {
+    gap: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.icon {
+    color: white;
+}
+
+select {
+    background-color: transparent;
+    color: white;
+
+}
+
+.header-container select {
+    border: solid black 0px;
+}
+
+@media (max-width:1000px) {
+    .header-container {
+        display: none;
+    }
+}

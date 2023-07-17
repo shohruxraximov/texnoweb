@@ -1,0 +1,53 @@
+.tex-catalog {
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+    margin-top: 10px;
+
+
+}
+
+.texnomart {
+    margin-left: 20px;
+    font-size: 20px;
+}
+
+.tex-search {
+    border-radius: 10px;
+    border: solid orange 3px;
+    width: 100%;
+    height: 50px;
+    font-size: 15px;
+    display: flex;
+
+}
+
+.tex-search select {
+    color: black;
+    background-color: transparent;
+    border: solid white 0px;
+    outline: none;
+}
+
+.tex-icons a {
+color: black;}
+
+.tex-icons {
+    color: black;
+    margin-left: 500px;
+    font-size: 20px;
+    margin-top: 5px;
+
+}
+
+.tex-page {
+    display: flex;
+    align-items: flex-start;
+    gap: 30px;
+
+}
+
+.tex-page a {
+    color: black;
+    font-size: 17px;
+}

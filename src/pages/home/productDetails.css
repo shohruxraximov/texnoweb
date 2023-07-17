@@ -1,0 +1,22 @@
+.product-button {
+    display: flex;
+    gap: 20px;
+    height: 25px;
+    font-size: 15px;
+    border-radius: solid 3px grey;
+    margin-bottom: 20px;
+
+}
+
+.productDetail,
+ul,li {
+    display: flex;
+    color: black;
+    gap: 10px;
+    text-decoration: none;
+    font-size:15px;
+}
+.fitnes-slide{
+display: flex;
+justify-content: space-around;
+}

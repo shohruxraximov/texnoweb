@@ -1,0 +1,23 @@
+.mobile-header {
+    width: 100%;
+    display: none;
+    justify-content: space-between;
+    align-items: center;
+  
+}
+
+.mobile-phone a {
+    color: black;
+    justify-content: space-around;
+
+}
+
+
+.mobile-icon select {
+    color: black;
+    border: solid white 0px;
+}
+@media (max-width:1000px) {
+    .mobile-header {display: flex;}
+    
+}
